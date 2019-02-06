@@ -1,1 +1,2 @@
 # Generator Lotto Sample
+PYTHON
